@@ -1,18 +1,29 @@
 {
   "name": "giorg",
-  "homepage": "https://github.com/IamLizu/giorg/",
+  "homepage": "https://github.com/IamLizu/giorg#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamLizu/giorg.git"
+  },
   "version": "0.1.0",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "description": "A simple organizational website template.",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "private": false,
-  "author": { 
-    "name" : "S M Mahmudul Hasan"
-    , "email" : "thegeek@iamlizu.com"
-    , "url" : "https://iamlizu.com/"
-    },
+  "keywords": [
+    "org"
+  ],
+  "author": "S M Mahmudul Hasan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IamLizu/giorg/issues"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "err": "^2.1.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
