@@ -1,0 +1,8 @@
+.aboutContainer {
+    margin: 6% 8%;
+    cursor: default;
+}
+
+.aboutContainer .textStyle {
+    font-weight: 500;
+}

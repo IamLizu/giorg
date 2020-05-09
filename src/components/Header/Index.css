@@ -1,0 +1,11 @@
+.headerContainer {
+    margin: 3% 8%;
+    display: flex;
+    justify-content: flex-start;
+    cursor: default
+}
+.headerNameStyle {
+    color: #3B3E88;
+    cursor: pointer;
+    text-decoration: none;
+}

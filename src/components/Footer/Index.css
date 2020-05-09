@@ -1,0 +1,11 @@
+.footerContainer {
+    margin: 0% 8%;
+    padding: 3% 0%;
+    display: flex;
+    justify-content: space-between;
+}
+.footerNameStyle {
+    color: #3B3E88;
+    cursor: pointer;
+    text-decoration: none;
+}
