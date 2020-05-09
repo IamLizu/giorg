@@ -1,0 +1,12 @@
+.peopleContainer {
+    margin: 0% 8%;
+}
+
+.memberAvatars {
+    border-radius: 3px;
+    margin: 2px 2px;
+}
+
+.memberAvatars:hover {
+    width: 50px;
+}
