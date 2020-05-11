@@ -14,7 +14,7 @@ Currently, org members are fetched from GitHub org. You may see other options in
 * Build app
 * Publish
 
-To build the project after making changes, run `npm run build`. This will create a static site which you will be able to host anywhere.  
+To build the project after making changes, run `npm run build`. This will create a static site which you will be able to host anywhere. Don't forget to run `npm install` to install the required node modules.  
 
 You may work in development mode before building it, to see the changes you make taking effect as you make them. Execute `npm start` in the project directory, this runs the app in the development mode and usually opens a tab. If it doesn't, open [http://localhost:3000](http://localhost:3000) to view it in the browser.  
 
